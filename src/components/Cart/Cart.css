@@ -1,0 +1,29 @@
+.card_page {
+	width: 70%;
+	display: flex;
+}
+.cartContainer {
+	width: 30%;
+	height: 65%;
+	margin-top: 10%;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: 0;
+}
+.secondCa {
+	border: 1px solid black;
+	width: 20%;
+	height: 25vh;
+	border-radius: 20px;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.cartb {
+	font-family: Roboto, sans-serif;
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}

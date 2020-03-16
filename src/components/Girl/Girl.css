@@ -1,0 +1,104 @@
+.womenBanner {
+	margin: auto;
+	background-image: url("../../assets/womens.png"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 15vh;
+	width: 65%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.leftGirlHome {
+	margin: auto;
+	background-image: url("../../assets/left.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 63vh;
+	width: 48%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+	margin-bottom: 2%;
+}
+
+.rightGirlHome {
+	margin: auto;
+	background-image: url("../../assets/right.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 63vh;
+	width: 48%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+	margin-bottom: 2%;
+}
+.girlHome {
+	display: flex;
+	width: 65%;
+	margin: auto;
+}
+.mediumBanner {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dw3288c9c4/2019/floorsets/08/29/womens4.jpg?sw=1366"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 70vh;
+	width: 65%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+.leftDress {
+	margin: auto;
+	background-image: url("../../assets/rightAlmost.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 30%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+
+.rightDress {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dw5b5111fb/2019/floorsets/08/29/womens6.jpg?sw=854"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 68%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+.dressBanner {
+	display: flex;
+	margin: auto;
+	width: 65%;
+	margin-top: 2%;
+}
+.lastBanner {
+	display: flex;
+	margin: auto;
+	width: 65%;
+	margin-top: 2%;
+}
+
+.lastLeft {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dwe4c8fff9/2019/floorsets/08/29/womens7.jpg?sw=854"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 68%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+
+.lastRight {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dw7a52ee49/2019/floorsets/08/29/womens8.jpg?sw=486"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 30%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}

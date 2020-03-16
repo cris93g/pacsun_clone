@@ -1,0 +1,35 @@
+.navContainer {
+	display: flex;
+	margin: auto;
+	justify-content: space-around;
+	margin-bottom: 1%;
+}
+.outerContainer {
+	text-align: center;
+	width: 50%;
+	margin: auto;
+	font-family: Roboto, sans-serif;
+}
+.nav {
+	border-bottom: 1px solid rgb(136, 136, 136);
+}
+.mainTitle {
+	display: flex;
+	margin: auto;
+	justify-content: space-around;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.topOfNav {
+	display: flex;
+	align-content: flex-end;
+	margin-left: 80%;
+}
+
+.menu {
+	display: flex;
+}

@@ -1,0 +1,37 @@
+.switchButton {
+	margin-top: 8%;
+	width: 240px;
+	height: 60px;
+	background-color: rgb(253, 249, 244);
+	border: 1px solid black;
+}
+.switchButton:hover {
+	background-color: black;
+	color: white;
+}
+
+button {
+	border: 0;
+	padding: 0;
+}
+
+.buttonWrapper {
+	display: flex;
+	justify-content: space-around;
+}
+.outside {
+	width: 25%;
+	margin: auto;
+	margin-bottom: 3%;
+}
+
+.homeImage {
+	margin: auto;
+	background-image: url("../../assets/sale.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 75vh;
+	width: 65%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+}

@@ -1,0 +1,101 @@
+/* .guyWrapper {
+	margin: auto;
+	width: 60%;
+	height: 100vh;
+} */
+.leftGuyHome {
+	margin: auto;
+	background-image: url("../../assets/leftmans.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 63vh;
+	width: 48%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+	margin-bottom: 2%;
+}
+
+.rightGuyHome {
+	margin: auto;
+	background-image: url("../../assets/rightmans.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 63vh;
+	width: 48%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+	margin-bottom: 2%;
+}
+.guyTop {
+	margin-top: 1%;
+}
+.mediumBannerG {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dwca72b195/2019/floorsets/08/29/mens4.jpg?sw=1366"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 70vh;
+	width: 65%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+
+.leftGuy {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dweba6e3d8/2019/floorsets/08/29/mens5.jpg?sw=486"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 30%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+
+.rightGuy {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dw7f98f836/2019/floorsets/08/29/mens6.jpg?sw=854"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 68%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+.lastGuyL {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun-Library/default/dwc104c25c/2019/floorsets/08/29/mens7.jpg?sw=854"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 68%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+
+.lastGuyR {
+	margin: auto;
+	background-image: url("https://www.pacsun.com/on/demandware.static/-/Sites-pacsun-Library/default/dwee04e145/2019/floorsets/08/29/mens8.gif"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 50vh;
+	width: 30%; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+}
+
+.featuredItems {
+	display: flex;
+	width: 64%;
+	height: 20vh;
+	margin: auto;
+}
+.featuredPic {
+	width: 20%;
+}
+.bottomTitle {
+	margin: auto;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 1%;
+	font-family: Roboto, sans-serif;
+}
